@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         test3
 // @namespace    http://tampermonkey.net/
-// @version     1.0.0
+// @version     1.0.1
 // @description  try to take over the world!
 // @author       You
 // @match        http://*/*
@@ -29,7 +29,6 @@
     const MOUSE_DOWN = "mousedown";
     const MOUSE_MOVE = "mousemove";
     const COPY = "copy";
-    const SELECT_START = "selectstart";
     const CONTEXT_MENU = "contextmenu";
     const KEY_DOWN = "keydown";
 
