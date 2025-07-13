@@ -23,7 +23,17 @@
 
 (function() {
     'use strict';
+    const DOM_READY = "DOMContentLoaded";
+    const PAGE_LOADED = "load";
+    const MOUSE_UP = "mouseup";
+    const MOUSE_DOWN = "mousedown";
+    const MOUSE_MOVE = "mousemove";
+    const COPY = "copy";
+    const SELECT_START = "selectstart";
+    const CONTEXT_MENU = "contextmenu";
+    const KEY_DOWN = "keydown";
 
+    
     const url = 'https://hi77-overseas.mangafuna.xyz/static/websitefree/js20190704/comic_detail_pass202507081916.js';
     let astTree;
 
