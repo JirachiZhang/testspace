@@ -18,6 +18,7 @@
 // @grant        GM_getResourceText
 // @grant        GM_xmlhttpRequest
 // @run-at       document-start
+// @license           MIT
 // ==/UserScript==
 
 (function() {
